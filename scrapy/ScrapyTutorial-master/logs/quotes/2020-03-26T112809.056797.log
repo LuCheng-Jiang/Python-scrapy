@@ -1,0 +1,68 @@
+2020-03-26 11:28:10 [scrapy] DEBUG: Crawled (404) <GET http://quotes.toscrape.com/robots.txt> (referer: None)
+2020-03-26 11:28:11 [scrapy] DEBUG: Crawled (200) <GET http://quotes.toscrape.com/> (referer: None)
+2020-03-26 11:28:41 [scrapy] ERROR: Error processing {'author': 'Albert Einstein',
+ 'tags': ['change', 'deep-thoughts', 'thinking', 'world'],
+ 'text': '“The world as we have created it is a process of o...'}
+Traceback (most recent call last):
+  File "c:\users\w\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "c:\users\w\anaconda3\lib\site-packages\scrapy\utils\defer.py", line 154, in f
+    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))
+  File "E:\scrapy\ScrapyTutorial-master\tutorial\pipelines.py", line 36, in process_item
+    self.db[name].insert(dict(item))
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 3182, in insert
+    check_keys, manipulate, write_concern)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 612, in _insert
+    bypass_doc_val, session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 600, in _insert_one
+    acknowledged, _insert_command, session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1491, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "c:\users\w\anaconda3\lib\contextlib.py", line 59, in __enter__
+    return next(self.gen)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1820, in _tmp_session
+    s = self._ensure_session(session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1807, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1760, in __start_session
+    server_session = self._get_server_session()
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1793, in _get_server_session
+    return self._topology.get_server_session()
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\topology.py", line 477, in get_server_session
+    None)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\topology.py", line 205, in _select_servers_loop
+    self._error_message(selector))
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2020-03-26 11:29:11 [scrapy] ERROR: Error processing {'author': 'J.K. Rowling',
+ 'tags': ['abilities', 'choices'],
+ 'text': '“It is our choices, Harry, that show what we truly...'}
+Traceback (most recent call last):
+  File "c:\users\w\anaconda3\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "c:\users\w\anaconda3\lib\site-packages\scrapy\utils\defer.py", line 154, in f
+    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))
+  File "E:\scrapy\ScrapyTutorial-master\tutorial\pipelines.py", line 36, in process_item
+    self.db[name].insert(dict(item))
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 3182, in insert
+    check_keys, manipulate, write_concern)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 612, in _insert
+    bypass_doc_val, session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\collection.py", line 600, in _insert_one
+    acknowledged, _insert_command, session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1491, in _retryable_write
+    with self._tmp_session(session) as s:
+  File "c:\users\w\anaconda3\lib\contextlib.py", line 59, in __enter__
+    return next(self.gen)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1820, in _tmp_session
+    s = self._ensure_session(session)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1807, in _ensure_session
+    return self.__start_session(True, causal_consistency=False)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1760, in __start_session
+    server_session = self._get_server_session()
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\mongo_client.py", line 1793, in _get_server_session
+    return self._topology.get_server_session()
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\topology.py", line 477, in get_server_session
+    None)
+  File "c:\users\w\anaconda3\lib\site-packages\pymongo\topology.py", line 205, in _select_servers_loop
+    self._error_message(selector))
+pymongo.errors.ServerSelectionTimeoutError: localhost:27017: [WinError 10061] 由于目标计算机积极拒绝，无法连接。

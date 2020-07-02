@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb28142e-e7ff-482e-934e-5618bf90ecfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="bb08eb7e-9f07-4a09-be44-aa21eb644b76" />
+  <component name="ProjectId" id="1Z0cHnTOS8bf01ROzahXErLXPOD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\scrapy\scrapyuniversal\scrapyuniversal" />
+      <recent name="E:\scrapy\scrapyuniversal\scrapyuniversal\configs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\scrapy\zhihu2\zhihu2" />
+      <recent name="E:\scrapy\renren\renren\spiders" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.book">
+    <configuration name="book" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOOK/BOOK/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOOK/BOOK/spiders/book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gkcx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gaokao/gaokao/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gaokao/gaokao/spiders/gkcx.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="middlewares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gaokao/gaokao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gaokao/gaokao/middlewares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fang/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gaokao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gaokao/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.book" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start (4)" />
+        <item itemvalue="Python.middlewares" />
+        <item itemvalue="Python.gkcx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb28142e-e7ff-482e-934e-5618bf90ecfa" name="Default Changelist" comment="" />
+      <created>1583979366722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583979366722</updated>
+      <workItem from="1583979394564" duration="8660000" />
+      <workItem from="1584000750324" duration="3747000" />
+      <workItem from="1584010689300" duration="263000" />
+      <workItem from="1584025603656" duration="2155000" />
+      <workItem from="1584058274320" duration="11850000" />
+      <workItem from="1584148600493" duration="16447000" />
+      <workItem from="1584236528859" duration="347000" />
+      <workItem from="1584274271015" duration="1894000" />
+      <workItem from="1584276714161" duration="1345000" />
+      <workItem from="1584405057012" duration="77000" />
+      <workItem from="1584422431652" duration="3397000" />
+      <workItem from="1584717755968" duration="358000" />
+      <workItem from="1584750193034" duration="597000" />
+      <workItem from="1584771727942" duration="2470000" />
+      <workItem from="1584833188280" duration="12851000" />
+      <workItem from="1584920711475" duration="3114000" />
+      <workItem from="1584976888705" duration="1297000" />
+      <workItem from="1585005678058" duration="1446000" />
+      <workItem from="1585010057107" duration="596000" />
+      <workItem from="1585039785537" duration="5783000" />
+      <workItem from="1585103059846" duration="9229000" />
+      <workItem from="1585180624262" duration="6030000" />
+      <workItem from="1585268790947" duration="3295000" />
+      <workItem from="1585304116983" duration="4903000" />
+      <workItem from="1585317251137" duration="1867000" />
+      <workItem from="1585353569331" duration="12130000" />
+      <workItem from="1585444113675" duration="1734000" />
+      <workItem from="1585619880711" duration="3970000" />
+      <workItem from="1585702144447" duration="5971000" />
+      <workItem from="1586221877632" duration="9586000" />
+      <workItem from="1586677207737" duration="5090000" />
+      <workItem from="1586747064347" duration="1187000" />
+      <workItem from="1589851525471" duration="4046000" />
+      <workItem from="1589932644259" duration="984000" />
+      <workItem from="1590883846938" duration="9339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="619" y="114" key="FileChooserDialogImpl" timestamp="1586265924106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="619" y="114" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586265924106" />
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom" timestamp="1590914337358">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590914337358" />
+    <state width="1323" height="183" key="GridCell.Tab.0.center" timestamp="1590914337357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590914337357" />
+    <state width="1323" height="183" key="GridCell.Tab.0.left" timestamp="1590914337356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590914337356" />
+    <state width="1323" height="183" key="GridCell.Tab.0.right" timestamp="1590914337357">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="183" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590914337357" />
+    <state width="637" height="220" key="GridCell.Tab.1.bottom" timestamp="1585040909558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585040909558" />
+    <state width="637" height="220" key="GridCell.Tab.1.center" timestamp="1585040909558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585040909558" />
+    <state width="637" height="220" key="GridCell.Tab.1.left" timestamp="1585040909558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585040909558" />
+    <state width="637" height="220" key="GridCell.Tab.1.right" timestamp="1585040909558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585040909558" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1586228970120">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586228970120" />
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589932863573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589932863573" />
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584849948374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="342" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1584849948374" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590891302218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590891302218" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boss/boss/spiders/zhipin.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianshu_spider/jianshu_spider/spiders/js.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fang/fang/spiders/sfw.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lianjia/lianjia/middlewares.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fang/fang/spiders/sfw.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOOK/BOOK/spiders/book.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapy$os_demo.coverage" NAME="os_demo Coverage Results" MODIFIED="1584004082962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baoma/baoma" />
+    <SUITE FILE_PATH="coverage/scrapy$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1585061349461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia" />
+    <SUITE FILE_PATH="coverage/scrapy$login.coverage" NAME="login Coverage Results" MODIFIED="1584425172706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zhihu2/zhihu2" />
+    <SUITE FILE_PATH="coverage/scrapy$bmw.coverage" NAME="bmw Coverage Results" MODIFIED="1584003031802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baoma/baoma/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$httpbin.coverage" NAME="httpbin Coverage Results" MODIFIED="1584089795036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/useragent_demo/useragent_demo/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1585704204990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fang-scrapy" />
+    <SUITE FILE_PATH="coverage/scrapy$lj.coverage" NAME="lj Coverage Results" MODIFIED="1584850946098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia/lianjia/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$gkcx.coverage" NAME="gkcx Coverage Results" MODIFIED="1586228620523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaokao/gaokao/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1589874366090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fang" />
+    <SUITE FILE_PATH="coverage/scrapy$book.coverage" NAME="book Coverage Results" MODIFIED="1590889193607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOOK/BOOK/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$wxapp_spider.coverage" NAME="wxapp_spider Coverage Results" MODIFIED="1583986373805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wxapp/wxapp/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$middlewares.coverage" NAME="middlewares Coverage Results" MODIFIED="1586229509976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaokao/gaokao" />
+    <SUITE FILE_PATH="coverage/scrapy$start.coverage" NAME="start Coverage Results" MODIFIED="1585358943634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weibo" />
+    <SUITE FILE_PATH="coverage/scrapy$zhipin.coverage" NAME="zhipin Coverage Results" MODIFIED="1584149786573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boss/boss/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1585040888650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia/lianjia" />
+    <SUITE FILE_PATH="coverage/scrapy$js.coverage" NAME="js Coverage Results" MODIFIED="1584156214976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jianshu_spider/jianshu_spider/spiders" />
+    <SUITE FILE_PATH="coverage/scrapy$settings.coverage" NAME="settings Coverage Results" MODIFIED="1584027582962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baoma/baoma" />
+    <SUITE FILE_PATH="coverage/scrapy$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1586229522708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gaokao" />
+    <SUITE FILE_PATH="coverage/scrapy$run.coverage" NAME="run Coverage Results" MODIFIED="1585191171377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyuniversal" />
+  </component>
+</project>
